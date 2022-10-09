@@ -1,0 +1,16 @@
+C:\Users\mehme\source\repos\Parametre\Parametre\bin\Debug\net5.0\Parametre.exe
+C:\Users\mehme\source\repos\Parametre\Parametre\bin\Debug\net5.0\Parametre.deps.json
+C:\Users\mehme\source\repos\Parametre\Parametre\bin\Debug\net5.0\Parametre.runtimeconfig.json
+C:\Users\mehme\source\repos\Parametre\Parametre\bin\Debug\net5.0\Parametre.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\Parametre\Parametre\bin\Debug\net5.0\Parametre.dll
+C:\Users\mehme\source\repos\Parametre\Parametre\bin\Debug\net5.0\Parametre.pdb
+C:\Users\mehme\source\repos\Parametre\Parametre\obj\Debug\net5.0\Parametre.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\Parametre\Parametre\obj\Debug\net5.0\Parametre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\Parametre\Parametre\obj\Debug\net5.0\Parametre.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\Parametre\Parametre\obj\Debug\net5.0\Parametre.AssemblyInfo.cs
+C:\Users\mehme\source\repos\Parametre\Parametre\obj\Debug\net5.0\Parametre.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\Parametre\Parametre\obj\Debug\net5.0\Parametre.dll
+C:\Users\mehme\source\repos\Parametre\Parametre\obj\Debug\net5.0\refint\Parametre.dll
+C:\Users\mehme\source\repos\Parametre\Parametre\obj\Debug\net5.0\Parametre.pdb
+C:\Users\mehme\source\repos\Parametre\Parametre\obj\Debug\net5.0\Parametre.genruntimeconfig.cache
+C:\Users\mehme\source\repos\Parametre\Parametre\obj\Debug\net5.0\ref\Parametre.dll
